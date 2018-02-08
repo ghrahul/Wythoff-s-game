@@ -1,8 +1,5 @@
 def printl(list = []):
-    i=0
-    for i in list:
-        print(list)
-        i=i+1
+    print(list)
         
 n = int((input("give n ")))
 m = int((input("give m ")))
